@@ -19,6 +19,8 @@ Este dashboard foi desenvolvido utilizando as seguintes tecnologias:
 - Bibliotecas para automação de navegação web - `selenium`
 - Bibliotecas para manipulação de URLs - `urllib.parse`
 
+# Os dados são atualizados a cada termino de rodada do brasileirão.
+
 ## Instalação e Uso
 
 EM MANUTENÇÃO
